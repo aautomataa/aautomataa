@@ -7,4 +7,4 @@
   * WeChat: Finnegans1939
   * homepage:
 
-\- 💬 Ask me about: details in my papers, deep learning\
+- 💬 Ask me about: computer vision, deep learning
