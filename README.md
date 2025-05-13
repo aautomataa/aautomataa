@@ -7,4 +7,4 @@
   * WeChat: Finnegans1939
   * homepage:
 
-- 💬 Ask me about: computer vision, deep learning
+- 💬 Ask me about: generative models, object detection, computer vision
