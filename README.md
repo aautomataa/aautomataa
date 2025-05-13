@@ -3,8 +3,7 @@
 
 - 📫 How to reach me
   * E-mail: 21220828@njnu.edu.cn
-  * Twitter:
   * WeChat: Finnegans1939
-  * homepage:
+  * homepage
 
 - 💬 Ask me about: generative models, object detection, computer vision
